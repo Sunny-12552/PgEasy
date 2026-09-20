@@ -1,0 +1,6 @@
+{
+  "name": "PGEase",
+  "description": "Modern PG Management SaaS platform with Owner Dashboard, Tenant Portal, and Public PG Showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
